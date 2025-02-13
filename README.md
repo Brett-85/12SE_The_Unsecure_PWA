@@ -44,13 +44,7 @@ Other Sandbox options:
 
 ---
 
-> [!Tip]
->
-> ## Teaching advice:
->
-> This app has been designed as either a teaching tool, an assessment tool, an assessment as a learning tool or a professional learning tool. **As a teaching tool** the teacher can use the app to demonstrate discrete vulnerabilities and then teach the preferred patch method. **As an assessment tool** the students should be taught the knowledge and skills, then given the app to analyse and report on before designing and developing appropriate patches (patching all will be time-prohibitive). **As an assessment as a learning tool** teachers can teach vulnerabilities in the app and then support students to design and develop patches while assessing them formatively. **As a professional learning tool** teachers can use the app to deepen their understanding of vulnerabilities, threat assessment and vulnerability patch design.
 
----
 
 ## Dependencies & Deployment
 
