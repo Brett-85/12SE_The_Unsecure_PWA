@@ -67,8 +67,8 @@ Other Sandbox options:
 ### Deployment
 
 ```bash
-git clone https://github.com/TempeHS/The_Unsecure_PWA.git
-CD The_Unsecure_PWA
+git clone https://github.com/Brett-85/12SE_The_Unsecure_PWA.git
+CD 12SE_The_Unsecure_PWA
 python main.py
 ```
 
